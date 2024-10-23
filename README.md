@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Interactive websites and animations 
 - 📫 How to reach me @obv.ashar/instagram
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
 
 <!---
 asharcs-2024/asharcs-2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
